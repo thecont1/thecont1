@@ -1,10 +1,10 @@
 # Hi, I'm Mahesh Shantaram
 
-Documentary photographer turned data scientist for the public good. I work at the intersection of cities and civics, data and democracy – building open source tools based on public data that reporters, researchers and civic groups can use without a PhD in statistics.
+Documentary photographer turned data scientist for the public good. I work at the intersection of cities and civics, data and democracy – building open source tools based on public data for people who don’t live within spreadsheets: reporters, researchers, civic groups, policy nerds, curious citizens.
 
 ---
 
-## Data for cities and democracy
+## Data for cities, democracy... and the universe!
 
 - [blr-traffic-monitor](https://github.com/thecont1/blr-traffic-monitor)  
   Reproducible notebooks and scrapers to track congestion on fixed routes in Bengaluru – useful for city reporters, mobility researchers, and advocacy campaigns.
@@ -30,7 +30,7 @@ Documentary photographer turned data scientist for the public good. I work at th
 
 ---
 
-## Utilities that support real work
+## Utilities that get the job done
 
 - [jamboree-converter](https://github.com/thecont1/jamboree-converter)  
   Turn Jupyter notebooks into clean PDFs for briefings, decks, or classroom handouts with one step.
@@ -46,7 +46,7 @@ Documentary photographer turned data scientist for the public good. I work at th
 
 ---
 
-## Currently in progress
+## Currently building...
 
 - [bankable](https://github.com/thecont1/bankable)  
   Experimental tooling to convert messy financial PDFs into structured markdown that analysts and investigative reporters can actually work with.
@@ -58,10 +58,12 @@ Documentary photographer turned data scientist for the public good. I work at th
 
 ## How I can help
 
-- Designing and maintaining public data pipelines for cities, elections, and civic infrastructure.  
-- Building one‑off tools and dashboards for newsrooms, research labs, and advocacy groups.  
-- Collaborating on data‑driven stories, from exploratory analysis to publication‑ready visuals.
+If you're a civic tech startup, a research lab, data-driven newsroom, an advocacy group, or have a role involving code and creativity that defies definition, I can help:
 
-If you're a civic tech startup, a research lab, data-driven newsroom, an advocacy group, or have some role involving code and creativity that defies definition, let's collaborate and do great things!
+- Design and maintain public data pipelines around cities, elections and civic infrastructure.
 
-Write to me at **ms@thecontrarian.in**.
+- Build focused tools or dashboards for newsrooms, labs or advocacy groups.
+
+- Collaborate on data-driven stories — from that messy first scrape to publication-ready visuals.
+
+Write to me at **ms@thecontrarian.in**. Let's change the world!
